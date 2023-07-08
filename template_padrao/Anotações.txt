@@ -1,4 +1,0 @@
-mx-auto - alinha uma imagem no centro de uma div
-d-block - organizar por blocos
-
-text-center - dentro da div centralizar tanto texto quanto imagem e mais
